@@ -1,4 +1,4 @@
-import { Button, Card, ProgressBar, Stack } from from "react-bootstrap";
+import { Button, Card, ProgressBar, Stack } from "react-bootstrap";
 import React from 'react'
 
 import {currencyFormatter} from '../utils'
